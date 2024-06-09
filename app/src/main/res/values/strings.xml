@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyScreenSmart</string>
+    <string name="screen_smart">Screen Smart</string>
+    <string name="todo">TODO</string>
+    <string name="ola_roleola">Ola Roleola</string>
+    <string name="st_10453025">ST: 10453025</string>
+    <string name="start">Start</string>
+    <string name="exit">Exit</string>
+    <string name="todomain">TODO</string>
+    <string name="screen_smartmain">Screen Smart</string>
+    <string name="date">Date</string>
+    <string name="morning_screen_time">Morning Screen Time</string>
+    <string name="afternoon_screen_time">Afternoon Screen Time</string>
+    <string name="activity_notes">Activity Notes</string>
+    <string name="view_details">View Details</string>
+    <string name="clear_stored_data">Clear Stored Data</string>
+    <string name="add">Add</string>
+    <string name="details">Details</string>
+    <string name="average">Average</string>
+    <string name="back">Back</string>
+    <string name="tododetails">TODO</string>
+    <string name="screen_smartdetails">Screen Smart</string>
+</resources>
